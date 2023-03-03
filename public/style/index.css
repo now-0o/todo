@@ -125,3 +125,17 @@ header {
     font-size: 18px;
     opacity: .7;
 }
+
+section {
+    margin-top: 30px;
+}
+section ul {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.todolist {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
